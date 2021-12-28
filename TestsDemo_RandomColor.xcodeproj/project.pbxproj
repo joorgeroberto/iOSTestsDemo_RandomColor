@@ -16,6 +16,7 @@
 		93E7FEF0277B566A00FBA754 /* TestsDemo_RandomColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E7FEEF277B566A00FBA754 /* TestsDemo_RandomColorTests.swift */; };
 		93E7FEFA277B566A00FBA754 /* TestsDemo_RandomColorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E7FEF9277B566A00FBA754 /* TestsDemo_RandomColorUITests.swift */; };
 		93E7FEFC277B566A00FBA754 /* TestsDemo_RandomColorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E7FEFB277B566A00FBA754 /* TestsDemo_RandomColorUITestsLaunchTests.swift */; };
+		93E7FF09277B5B8000FBA754 /* RandomColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E7FF08277B5B8000FBA754 /* RandomColor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		93E7FEF5277B566A00FBA754 /* TestsDemo_RandomColorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestsDemo_RandomColorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		93E7FEF9277B566A00FBA754 /* TestsDemo_RandomColorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestsDemo_RandomColorUITests.swift; sourceTree = "<group>"; };
 		93E7FEFB277B566A00FBA754 /* TestsDemo_RandomColorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestsDemo_RandomColorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		93E7FF08277B5B8000FBA754 /* RandomColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomColor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				93E7FED8277B566700FBA754 /* AppDelegate.swift */,
 				93E7FEDA277B566700FBA754 /* SceneDelegate.swift */,
 				93E7FEDC277B566700FBA754 /* ViewController.swift */,
+				93E7FF08277B5B8000FBA754 /* RandomColor.swift */,
 				93E7FEDE277B566700FBA754 /* Main.storyboard */,
 				93E7FEE1277B566A00FBA754 /* Assets.xcassets */,
 				93E7FEE3277B566A00FBA754 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93E7FF09277B5B8000FBA754 /* RandomColor.swift in Sources */,
 				93E7FEDD277B566700FBA754 /* ViewController.swift in Sources */,
 				93E7FED9277B566700FBA754 /* AppDelegate.swift in Sources */,
 				93E7FEDB277B566700FBA754 /* SceneDelegate.swift in Sources */,
